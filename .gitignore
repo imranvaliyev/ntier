@@ -1,0 +1,11 @@
+.vs
+StepToDo.Core/obj
+StepToDo.Core/bin
+StepToDo.Infrastructure/bin
+StepToDo.Infrastructure/obj
+StepToDo.Infrastructure/Migrations
+StepToDo.Presentation/bin
+StepToDo.Presentation/obj
+
+
+
